@@ -63,6 +63,7 @@ public class Operetions {
         System.out.println(x % 2 == 0);
 
         System.out.println(x>=1 && x<=9);
+        System.out.println(x>=1 && x<=9);
 
         boolean mianish = x>=1 && x<=9;
 
